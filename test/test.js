@@ -40,7 +40,7 @@ describe('External Api Check', () => {
     })
 
 
-describe('Hello API Request', () => {
+describe('Weather Report GET API Request', () => {
 var app;
 before(()=> {
         app= require('../server.js');
